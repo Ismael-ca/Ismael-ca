@@ -1,7 +1,7 @@
 # Welcome to github repository of Ismael Crespo 👋
 
 
-![Imagen de Portada]()
+![Imagen de Portada](Recursos/experiencia-programacion-persona-que-trabaja-codigos-computadora-scaled.jpg)
 
 ## Descripción
 
