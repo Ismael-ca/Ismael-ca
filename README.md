@@ -1,6 +1,7 @@
 # Título del Proyecto
+## Ismael Crespo Aranda
 
-![Imagen de Portada](url_de_la_imagen)
+![Imagen de Portada](Recursos/IMG_20220929_124620.jpg)
 
 ## Descripción
 
